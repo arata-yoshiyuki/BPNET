@@ -27,7 +27,7 @@ Bankruptcy Propagation on a Network (BPNET) implementation.
 
 * Folder *Simulation* has two sub-folders *Full* and *Null*.
 * *Full* is for simulation with parameter estimates obtained above.
-* *Null* is for simulation for the case when the effect of bankruptcy propagation is *switched off*. It serves as a null model.
+* *Null* is for simulation for the case when the effect of bankruptcy propagation is switched off. It serves as a null model.
 
 ## 4. References
 
